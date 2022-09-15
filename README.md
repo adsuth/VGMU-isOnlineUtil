@@ -6,6 +6,12 @@ Currently, the utility can only flag **deleted** videos, **not copyrighted ones*
 
 Upon completion, the program will output an HTML file to `./index.html`, that can then be opened on a web browser like Chrome.
 
+## Dependencies
+To run this utility, you'll need to install the required dependencies.
+run this command to do
+
+`pip install -r requirements.txt`
+
 ## Arguments
 | Argument | Shorthand | Use | Notes |
 | --- | --- | --- | --- |
